@@ -7,6 +7,6 @@
 - 🎓 Sou estudante de Análise e desenvolvimento de sistemas, instituição Estacio de sá
 - 💻Atualmente estou concluindo os cursos:
 - Lógica de programação 60 hr (Concluso)
-- Programação back end de sistemas linguagem Java (cursando término em 28/08/2023)
-- Programação back end de sistemas linguagem JavaScript (cursando término em 28/08/2023)
+- Programação back end de sistemas linguagem Java 240 hr (cursando término em 28/08/2023)
+- Programação back end de sistemas linguagem JavaScript 240 hr (cursando término em 28/08/2023)
 
