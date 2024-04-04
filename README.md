@@ -26,7 +26,7 @@
 - Segurança em endpoint 40 h - Cisco Networking Academy 
 - Networking Basic 30 h - Cisco Networking Academy
 - Networking Essentials 70 h  - Cisco Networking Academy
-- 
+- Introdução a IoT 20 h - Cisco Networking Academy
 
 - 
 
